@@ -1,6 +1,6 @@
 {
-  "total_generated": 105,
-  "last_reciter_idx": 7,
+  "total_generated": 106,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1054,6 +1054,16 @@
       "duration": 51.1,
       "video_id": null,
       "date": "2026-10-30 18:01:07"
+    },
+    {
+      "surah": 66,
+      "surah_name": "التحريم",
+      "start_ayah": 10,
+      "end_ayah": 11,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 56.3,
+      "video_id": null,
+      "date": "2026-10-31 01:29:01"
     }
   ]
 }
