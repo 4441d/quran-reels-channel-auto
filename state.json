@@ -1,6 +1,6 @@
 {
-  "total_generated": 111,
-  "last_reciter_idx": 13,
+  "total_generated": 112,
+  "last_reciter_idx": 0,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1114,6 +1114,16 @@
       "duration": 40.6,
       "video_id": null,
       "date": "2026-11-01 06:21:42"
+    },
+    {
+      "surah": 107,
+      "surah_name": "الماعون",
+      "start_ayah": 1,
+      "end_ayah": 7,
+      "reciter": "عبدالباسط عبدالصمد (مرتل)",
+      "duration": 32.0,
+      "video_id": null,
+      "date": "2026-11-01 12:07:04"
     }
   ]
 }
