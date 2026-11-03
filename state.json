@@ -1,6 +1,6 @@
 {
-  "total_generated": 119,
-  "last_reciter_idx": 7,
+  "total_generated": 120,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1194,6 +1194,16 @@
       "duration": 56.6,
       "video_id": null,
       "date": "2026-11-03 06:34:50"
+    },
+    {
+      "surah": 4,
+      "surah_name": "النساء",
+      "start_ayah": 35,
+      "end_ayah": 36,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 54.2,
+      "video_id": null,
+      "date": "2026-11-03 12:26:59"
     }
   ]
 }
