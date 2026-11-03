@@ -1,6 +1,6 @@
 {
-  "total_generated": 117,
-  "last_reciter_idx": 5,
+  "total_generated": 118,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1174,6 +1174,16 @@
       "duration": 43.8,
       "video_id": null,
       "date": "2026-11-02 18:13:23"
+    },
+    {
+      "surah": 8,
+      "surah_name": "الأنفال",
+      "start_ayah": 24,
+      "end_ayah": 25,
+      "reciter": "ماهر المعيقلي",
+      "duration": 41.0,
+      "video_id": null,
+      "date": "2026-11-03 01:32:11"
     }
   ]
 }
