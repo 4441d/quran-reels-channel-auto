@@ -1,6 +1,6 @@
 {
-  "total_generated": 124,
-  "last_reciter_idx": 12,
+  "total_generated": 125,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1244,6 +1244,16 @@
       "duration": 44.0,
       "video_id": null,
       "date": "2026-11-04 12:21:54"
+    },
+    {
+      "surah": 63,
+      "surah_name": "المنافقون",
+      "start_ayah": 1,
+      "end_ayah": 3,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 51.2,
+      "video_id": null,
+      "date": "2026-11-04 18:12:12"
     }
   ]
 }
