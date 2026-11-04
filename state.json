@@ -1,6 +1,6 @@
 {
-  "total_generated": 121,
-  "last_reciter_idx": 9,
+  "total_generated": 122,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1214,6 +1214,16 @@
       "duration": 40.6,
       "video_id": null,
       "date": "2026-11-03 18:06:24"
+    },
+    {
+      "surah": 84,
+      "surah_name": "الانشقاق",
+      "start_ayah": 12,
+      "end_ayah": 24,
+      "reciter": "ياسر الدوسري",
+      "duration": 56.0,
+      "video_id": null,
+      "date": "2026-11-04 01:33:58"
     }
   ]
 }
