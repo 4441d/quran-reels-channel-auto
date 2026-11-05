@@ -1,6 +1,6 @@
 {
-  "total_generated": 128,
-  "last_reciter_idx": 2,
+  "total_generated": 129,
+  "last_reciter_idx": 3,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1284,6 +1284,16 @@
       "duration": 29.4,
       "video_id": null,
       "date": "2026-11-05 12:30:56"
+    },
+    {
+      "surah": 89,
+      "surah_name": "الفجر",
+      "start_ayah": 19,
+      "end_ayah": 22,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 40.1,
+      "video_id": null,
+      "date": "2026-11-05 18:05:33"
     }
   ]
 }
