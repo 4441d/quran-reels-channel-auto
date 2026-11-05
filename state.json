@@ -1,6 +1,6 @@
 {
-  "total_generated": 126,
-  "last_reciter_idx": 0,
+  "total_generated": 127,
+  "last_reciter_idx": 1,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1264,6 +1264,16 @@
       "duration": 42.0,
       "video_id": null,
       "date": "2026-11-05 01:35:55"
+    },
+    {
+      "surah": 97,
+      "surah_name": "القدر",
+      "start_ayah": 1,
+      "end_ayah": 4,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 60.7,
+      "video_id": null,
+      "date": "2026-11-05 06:40:20"
     }
   ]
 }
