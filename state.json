@@ -1,6 +1,6 @@
 {
-  "total_generated": 127,
-  "last_reciter_idx": 1,
+  "total_generated": 128,
+  "last_reciter_idx": 2,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1274,6 +1274,16 @@
       "duration": 60.7,
       "video_id": null,
       "date": "2026-11-05 06:40:20"
+    },
+    {
+      "surah": 106,
+      "surah_name": "قريش",
+      "start_ayah": 3,
+      "end_ayah": 4,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 29.4,
+      "video_id": null,
+      "date": "2026-11-05 12:30:56"
     }
   ]
 }
