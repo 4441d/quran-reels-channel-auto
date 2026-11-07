@@ -1,6 +1,6 @@
 {
-  "total_generated": 136,
-  "last_reciter_idx": 10,
+  "total_generated": 137,
+  "last_reciter_idx": 11,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1364,6 +1364,16 @@
       "duration": 54.7,
       "video_id": null,
       "date": "2026-11-07 12:17:58"
+    },
+    {
+      "surah": 20,
+      "surah_name": "طه",
+      "start_ayah": 62,
+      "end_ayah": 66,
+      "reciter": "ناصر القطامي",
+      "duration": 61.4,
+      "video_id": null,
+      "date": "2026-11-07 17:55:58"
     }
   ]
 }
