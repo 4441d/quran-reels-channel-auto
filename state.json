@@ -1,6 +1,6 @@
 {
-  "total_generated": 135,
-  "last_reciter_idx": 9,
+  "total_generated": 136,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1354,6 +1354,16 @@
       "duration": 41.7,
       "video_id": null,
       "date": "2026-11-07 06:27:15"
+    },
+    {
+      "surah": 21,
+      "surah_name": "الأنبياء",
+      "start_ayah": 54,
+      "end_ayah": 58,
+      "reciter": "ياسر الدوسري",
+      "duration": 54.7,
+      "video_id": null,
+      "date": "2026-11-07 12:17:58"
     }
   ]
 }
