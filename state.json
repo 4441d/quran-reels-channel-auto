@@ -1,6 +1,6 @@
 {
-  "total_generated": 133,
-  "last_reciter_idx": 7,
+  "total_generated": 134,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1334,6 +1334,16 @@
       "duration": 44.5,
       "video_id": null,
       "date": "2026-11-06 18:05:20"
+    },
+    {
+      "surah": 32,
+      "surah_name": "السجدة",
+      "start_ayah": 4,
+      "end_ayah": 8,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 51.6,
+      "video_id": null,
+      "date": "2026-11-07 01:30:22"
     }
   ]
 }
