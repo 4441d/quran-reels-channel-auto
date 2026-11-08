@@ -1,6 +1,6 @@
 {
-  "total_generated": 138,
-  "last_reciter_idx": 12,
+  "total_generated": 139,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1384,6 +1384,16 @@
       "duration": 59.6,
       "video_id": null,
       "date": "2026-11-08 01:34:59"
+    },
+    {
+      "surah": 82,
+      "surah_name": "الانفطار",
+      "start_ayah": 16,
+      "end_ayah": 19,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 42.2,
+      "video_id": null,
+      "date": "2026-11-08 06:28:01"
     }
   ]
 }
