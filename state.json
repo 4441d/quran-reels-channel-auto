@@ -1,6 +1,6 @@
 {
-  "total_generated": 140,
-  "last_reciter_idx": 0,
+  "total_generated": 141,
+  "last_reciter_idx": 1,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1404,6 +1404,16 @@
       "duration": 58.6,
       "video_id": null,
       "date": "2026-11-08 12:18:19"
+    },
+    {
+      "surah": 104,
+      "surah_name": "الهمزة",
+      "start_ayah": 5,
+      "end_ayah": 9,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 40.5,
+      "video_id": null,
+      "date": "2026-11-08 17:54:56"
     }
   ]
 }
