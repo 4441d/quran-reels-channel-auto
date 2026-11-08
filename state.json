@@ -1,6 +1,6 @@
 {
-  "total_generated": 137,
-  "last_reciter_idx": 11,
+  "total_generated": 138,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1374,6 +1374,16 @@
       "duration": 61.4,
       "video_id": null,
       "date": "2026-11-07 17:55:58"
+    },
+    {
+      "surah": 77,
+      "surah_name": "المرسلات",
+      "start_ayah": 15,
+      "end_ayah": 25,
+      "reciter": "أحمد العجمي",
+      "duration": 59.6,
+      "video_id": null,
+      "date": "2026-11-08 01:34:59"
     }
   ]
 }
