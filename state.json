@@ -1,6 +1,6 @@
 {
-  "total_generated": 141,
-  "last_reciter_idx": 1,
+  "total_generated": 142,
+  "last_reciter_idx": 2,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1414,6 +1414,16 @@
       "duration": 40.5,
       "video_id": null,
       "date": "2026-11-08 17:54:56"
+    },
+    {
+      "surah": 81,
+      "surah_name": "التكوير",
+      "start_ayah": 4,
+      "end_ayah": 17,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 59.5,
+      "video_id": null,
+      "date": "2026-11-09 01:40:19"
     }
   ]
 }
