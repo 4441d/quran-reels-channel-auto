@@ -1,6 +1,6 @@
 {
-  "total_generated": 143,
-  "last_reciter_idx": 3,
+  "total_generated": 144,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1434,6 +1434,16 @@
       "duration": 44.6,
       "video_id": null,
       "date": "2026-11-09 06:40:46"
+    },
+    {
+      "surah": 70,
+      "surah_name": "المعارج",
+      "start_ayah": 30,
+      "end_ayah": 34,
+      "reciter": "محمود خليل الحصري",
+      "duration": 56.4,
+      "video_id": null,
+      "date": "2026-11-09 12:35:10"
     }
   ]
 }
