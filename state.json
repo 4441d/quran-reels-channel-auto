@@ -1,6 +1,6 @@
 {
-  "total_generated": 146,
-  "last_reciter_idx": 6,
+  "total_generated": 147,
+  "last_reciter_idx": 7,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1464,6 +1464,16 @@
       "duration": 61.4,
       "video_id": null,
       "date": "2026-11-10 06:35:05"
+    },
+    {
+      "surah": 101,
+      "surah_name": "القارعة",
+      "start_ayah": 1,
+      "end_ayah": 11,
+      "reciter": "سعود الشريم",
+      "duration": 34.4,
+      "video_id": null,
+      "date": "2026-11-10 12:25:28"
     }
   ]
 }
