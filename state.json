@@ -1,6 +1,6 @@
 {
-  "total_generated": 155,
-  "last_reciter_idx": 1,
+  "total_generated": 156,
+  "last_reciter_idx": 2,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1554,6 +1554,16 @@
       "duration": 59.3,
       "video_id": null,
       "date": "2026-11-12 12:32:46"
+    },
+    {
+      "surah": 54,
+      "surah_name": "القمر",
+      "start_ayah": 53,
+      "end_ayah": 55,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 40.9,
+      "video_id": null,
+      "date": "2026-11-12 18:10:41"
     }
   ]
 }
