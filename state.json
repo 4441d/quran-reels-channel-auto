@@ -1,6 +1,6 @@
 {
-  "total_generated": 158,
-  "last_reciter_idx": 4,
+  "total_generated": 159,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1584,6 +1584,16 @@
       "duration": 54.6,
       "video_id": null,
       "date": "2026-11-13 06:38:53"
+    },
+    {
+      "surah": 76,
+      "surah_name": "الإنسان",
+      "start_ayah": 14,
+      "end_ayah": 20,
+      "reciter": "مشاري العفاسي",
+      "duration": 60.6,
+      "video_id": null,
+      "date": "2026-11-13 12:34:58"
     }
   ]
 }
