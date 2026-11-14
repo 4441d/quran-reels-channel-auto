@@ -1,6 +1,6 @@
 {
-  "total_generated": 162,
-  "last_reciter_idx": 8,
+  "total_generated": 163,
+  "last_reciter_idx": 9,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1624,6 +1624,16 @@
       "duration": 57.1,
       "video_id": null,
       "date": "2026-11-14 06:29:54"
+    },
+    {
+      "surah": 81,
+      "surah_name": "التكوير",
+      "start_ayah": 15,
+      "end_ayah": 28,
+      "reciter": "سعد الغامدي",
+      "duration": 60.9,
+      "video_id": null,
+      "date": "2026-11-14 12:16:30"
     }
   ]
 }
