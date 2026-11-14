@@ -1,6 +1,6 @@
 {
-  "total_generated": 160,
-  "last_reciter_idx": 6,
+  "total_generated": 161,
+  "last_reciter_idx": 7,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1604,6 +1604,16 @@
       "duration": 41.2,
       "video_id": null,
       "date": "2026-11-13 18:09:01"
+    },
+    {
+      "surah": 89,
+      "surah_name": "الفجر",
+      "start_ayah": 22,
+      "end_ayah": 30,
+      "reciter": "سعود الشريم",
+      "duration": 48.0,
+      "video_id": null,
+      "date": "2026-11-14 01:32:32"
     }
   ]
 }
