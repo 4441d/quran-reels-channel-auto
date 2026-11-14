@@ -1,6 +1,6 @@
 {
-  "total_generated": 163,
-  "last_reciter_idx": 9,
+  "total_generated": 164,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1634,6 +1634,16 @@
       "duration": 60.9,
       "video_id": null,
       "date": "2026-11-14 12:16:30"
+    },
+    {
+      "surah": 93,
+      "surah_name": "الضحى",
+      "start_ayah": 7,
+      "end_ayah": 11,
+      "reciter": "ياسر الدوسري",
+      "duration": 41.1,
+      "video_id": null,
+      "date": "2026-11-14 17:57:11"
     }
   ]
 }
