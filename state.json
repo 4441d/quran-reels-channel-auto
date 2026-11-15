@@ -1,6 +1,6 @@
 {
-  "total_generated": 165,
-  "last_reciter_idx": 11,
+  "total_generated": 166,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1654,6 +1654,16 @@
       "duration": 57.8,
       "video_id": null,
       "date": "2026-11-15 01:36:49"
+    },
+    {
+      "surah": 102,
+      "surah_name": "التكاثر",
+      "start_ayah": 1,
+      "end_ayah": 8,
+      "reciter": "أحمد العجمي",
+      "duration": 40.3,
+      "video_id": null,
+      "date": "2026-11-15 06:31:29"
     }
   ]
 }
