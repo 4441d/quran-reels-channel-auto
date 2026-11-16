@@ -1,6 +1,6 @@
 {
-  "total_generated": 168,
-  "last_reciter_idx": 0,
+  "total_generated": 169,
+  "last_reciter_idx": 1,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1684,6 +1684,16 @@
       "duration": 31.6,
       "video_id": null,
       "date": "2026-11-15 17:57:27"
+    },
+    {
+      "surah": 100,
+      "surah_name": "العاديات",
+      "start_ayah": 7,
+      "end_ayah": 11,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 51.8,
+      "video_id": null,
+      "date": "2026-11-16 01:52:34"
     }
   ]
 }
