@@ -1,6 +1,6 @@
 {
-  "total_generated": 171,
-  "last_reciter_idx": 3,
+  "total_generated": 172,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1714,6 +1714,16 @@
       "duration": 44.1,
       "video_id": null,
       "date": "2026-11-16 13:53:04"
+    },
+    {
+      "surah": 92,
+      "surah_name": "الليل",
+      "start_ayah": 11,
+      "end_ayah": 18,
+      "reciter": "محمود خليل الحصري",
+      "duration": 54.3,
+      "video_id": null,
+      "date": "2026-11-16 18:19:16"
     }
   ]
 }
