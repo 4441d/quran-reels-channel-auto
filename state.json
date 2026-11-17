@@ -1,6 +1,6 @@
 {
-  "total_generated": 175,
-  "last_reciter_idx": 7,
+  "total_generated": 176,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1754,6 +1754,16 @@
       "duration": 22.7,
       "video_id": null,
       "date": "2026-11-17 12:26:55"
+    },
+    {
+      "surah": 113,
+      "surah_name": "الفلق",
+      "start_ayah": 1,
+      "end_ayah": 5,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 24.5,
+      "video_id": null,
+      "date": "2026-11-17 18:17:03"
     }
   ]
 }
