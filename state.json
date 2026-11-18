@@ -1,6 +1,6 @@
 {
-  "total_generated": 176,
-  "last_reciter_idx": 8,
+  "total_generated": 177,
+  "last_reciter_idx": 9,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1764,6 +1764,16 @@
       "duration": 24.5,
       "video_id": null,
       "date": "2026-11-17 18:17:03"
+    },
+    {
+      "surah": 47,
+      "surah_name": "محمد",
+      "start_ayah": 24,
+      "end_ayah": 28,
+      "reciter": "سعد الغامدي",
+      "duration": 53.6,
+      "video_id": null,
+      "date": "2026-11-18 02:03:17"
     }
   ]
 }
