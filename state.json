@@ -1,6 +1,6 @@
 {
-  "total_generated": 179,
-  "last_reciter_idx": 11,
+  "total_generated": 180,
+  "last_reciter_idx": 12,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1794,6 +1794,16 @@
       "duration": 56.7,
       "video_id": null,
       "date": "2026-11-18 12:45:12"
+    },
+    {
+      "surah": 103,
+      "surah_name": "العصر",
+      "start_ayah": 1,
+      "end_ayah": 3,
+      "reciter": "أحمد العجمي",
+      "duration": 20.4,
+      "video_id": null,
+      "date": "2026-11-18 18:12:17"
     }
   ]
 }
