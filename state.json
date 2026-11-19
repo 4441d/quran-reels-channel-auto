@@ -1,6 +1,6 @@
 {
-  "total_generated": 180,
-  "last_reciter_idx": 12,
+  "total_generated": 181,
+  "last_reciter_idx": 13,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1804,6 +1804,16 @@
       "duration": 20.4,
       "video_id": null,
       "date": "2026-11-18 18:12:17"
+    },
+    {
+      "surah": 111,
+      "surah_name": "المسد",
+      "start_ayah": 2,
+      "end_ayah": 5,
+      "reciter": "أبو بكر الشاطري",
+      "duration": 25.6,
+      "video_id": null,
+      "date": "2026-11-19 01:56:59"
     }
   ]
 }
