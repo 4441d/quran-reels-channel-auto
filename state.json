@@ -1,6 +1,6 @@
 {
-  "total_generated": 183,
-  "last_reciter_idx": 1,
+  "total_generated": 184,
+  "last_reciter_idx": 2,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1834,6 +1834,16 @@
       "duration": 59.4,
       "video_id": null,
       "date": "2026-11-19 12:36:49"
+    },
+    {
+      "surah": 96,
+      "surah_name": "العلق",
+      "start_ayah": 10,
+      "end_ayah": 19,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 55.5,
+      "video_id": null,
+      "date": "2026-11-19 18:15:03"
     }
   ]
 }
