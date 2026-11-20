@@ -1,6 +1,6 @@
 {
-  "total_generated": 187,
-  "last_reciter_idx": 5,
+  "total_generated": 188,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1874,6 +1874,16 @@
       "duration": 25.8,
       "video_id": null,
       "date": "2026-11-20 12:33:08"
+    },
+    {
+      "surah": 100,
+      "surah_name": "العاديات",
+      "start_ayah": 8,
+      "end_ayah": 11,
+      "reciter": "ماهر المعيقلي",
+      "duration": 40.9,
+      "video_id": null,
+      "date": "2026-11-20 18:18:48"
     }
   ]
 }
