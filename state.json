@@ -1,6 +1,6 @@
 {
-  "total_generated": 184,
-  "last_reciter_idx": 2,
+  "total_generated": 185,
+  "last_reciter_idx": 3,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1844,6 +1844,16 @@
       "duration": 55.5,
       "video_id": null,
       "date": "2026-11-19 18:15:03"
+    },
+    {
+      "surah": 82,
+      "surah_name": "الانفطار",
+      "start_ayah": 5,
+      "end_ayah": 11,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 59.7,
+      "video_id": null,
+      "date": "2026-11-20 01:40:25"
     }
   ]
 }
