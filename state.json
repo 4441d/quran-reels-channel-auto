@@ -1,6 +1,6 @@
 {
-  "total_generated": 186,
-  "last_reciter_idx": 4,
+  "total_generated": 187,
+  "last_reciter_idx": 5,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1864,6 +1864,16 @@
       "duration": 40.3,
       "video_id": null,
       "date": "2026-11-20 06:36:39"
+    },
+    {
+      "surah": 110,
+      "surah_name": "النصر",
+      "start_ayah": 1,
+      "end_ayah": 3,
+      "reciter": "مشاري العفاسي",
+      "duration": 25.8,
+      "video_id": null,
+      "date": "2026-11-20 12:33:08"
     }
   ]
 }
