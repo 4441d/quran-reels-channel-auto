@@ -1,6 +1,6 @@
 {
-  "total_generated": 185,
-  "last_reciter_idx": 3,
+  "total_generated": 186,
+  "last_reciter_idx": 4,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1854,6 +1854,16 @@
       "duration": 59.7,
       "video_id": null,
       "date": "2026-11-20 01:40:25"
+    },
+    {
+      "surah": 99,
+      "surah_name": "الزلزلة",
+      "start_ayah": 7,
+      "end_ayah": 8,
+      "reciter": "محمود خليل الحصري",
+      "duration": 40.3,
+      "video_id": null,
+      "date": "2026-11-20 06:36:39"
     }
   ]
 }
