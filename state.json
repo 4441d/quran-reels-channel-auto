@@ -1,6 +1,6 @@
 {
-  "total_generated": 189,
-  "last_reciter_idx": 7,
+  "total_generated": 190,
+  "last_reciter_idx": 8,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1894,6 +1894,16 @@
       "duration": 58.7,
       "video_id": null,
       "date": "2026-11-21 01:44:13"
+    },
+    {
+      "surah": 85,
+      "surah_name": "البروج",
+      "start_ayah": 13,
+      "end_ayah": 22,
+      "reciter": "عبدالرحمن السديس",
+      "duration": 39.4,
+      "video_id": null,
+      "date": "2026-11-21 06:35:38"
     }
   ]
 }
