@@ -1,6 +1,6 @@
 {
-  "total_generated": 197,
-  "last_reciter_idx": 1,
+  "total_generated": 198,
+  "last_reciter_idx": 2,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1974,6 +1974,16 @@
       "duration": 47.5,
       "video_id": null,
       "date": "2026-11-23 01:45:35"
+    },
+    {
+      "surah": 64,
+      "surah_name": "التغابن",
+      "start_ayah": 6,
+      "end_ayah": 8,
+      "reciter": "محمد صديق المنشاوي (مرتل)",
+      "duration": 56.5,
+      "video_id": null,
+      "date": "2026-11-23 06:48:44"
     }
   ]
 }
