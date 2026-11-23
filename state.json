@@ -1,6 +1,6 @@
 {
-  "total_generated": 198,
-  "last_reciter_idx": 2,
+  "total_generated": 199,
+  "last_reciter_idx": 3,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -1984,6 +1984,16 @@
       "duration": 56.5,
       "video_id": null,
       "date": "2026-11-23 06:48:44"
+    },
+    {
+      "surah": 74,
+      "surah_name": "المدثر",
+      "start_ayah": 54,
+      "end_ayah": 56,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 43.6,
+      "video_id": null,
+      "date": "2026-11-23 12:38:23"
     }
   ]
 }
