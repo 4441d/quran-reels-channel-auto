@@ -1,6 +1,6 @@
 {
-  "total_generated": 202,
-  "last_reciter_idx": 6,
+  "total_generated": 203,
+  "last_reciter_idx": 7,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2024,6 +2024,16 @@
       "duration": 40.4,
       "video_id": null,
       "date": "2026-11-24 06:32:25"
+    },
+    {
+      "surah": 78,
+      "surah_name": "النبأ",
+      "start_ayah": 1,
+      "end_ayah": 17,
+      "reciter": "سعود الشريم",
+      "duration": 58.8,
+      "video_id": null,
+      "date": "2026-11-24 12:38:32"
     }
   ]
 }
