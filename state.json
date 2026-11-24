@@ -1,6 +1,6 @@
 {
-  "total_generated": 201,
-  "last_reciter_idx": 5,
+  "total_generated": 202,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2014,6 +2014,16 @@
       "duration": 39.8,
       "video_id": null,
       "date": "2026-11-24 01:43:32"
+    },
+    {
+      "surah": 91,
+      "surah_name": "الشمس",
+      "start_ayah": 12,
+      "end_ayah": 15,
+      "reciter": "ماهر المعيقلي",
+      "duration": 40.4,
+      "video_id": null,
+      "date": "2026-11-24 06:32:25"
     }
   ]
 }
