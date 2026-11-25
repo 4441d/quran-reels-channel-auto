@@ -1,6 +1,6 @@
 {
-  "total_generated": 205,
-  "last_reciter_idx": 9,
+  "total_generated": 206,
+  "last_reciter_idx": 10,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2054,6 +2054,16 @@
       "duration": 34.6,
       "video_id": null,
       "date": "2026-11-25 01:47:17"
+    },
+    {
+      "surah": 33,
+      "surah_name": "الأحزاب",
+      "start_ayah": 5,
+      "end_ayah": 6,
+      "reciter": "ياسر الدوسري",
+      "duration": 71.3,
+      "video_id": null,
+      "date": "2026-11-25 06:35:26"
     }
   ]
 }
