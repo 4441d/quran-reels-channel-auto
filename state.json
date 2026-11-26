@@ -1,6 +1,6 @@
 {
-  "total_generated": 210,
-  "last_reciter_idx": 0,
+  "total_generated": 211,
+  "last_reciter_idx": 1,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2104,6 +2104,16 @@
       "duration": 59.3,
       "video_id": null,
       "date": "2026-11-26 06:43:29"
+    },
+    {
+      "surah": 92,
+      "surah_name": "الليل",
+      "start_ayah": 16,
+      "end_ayah": 21,
+      "reciter": "عبدالباسط عبدالصمد (مجود)",
+      "duration": 51.7,
+      "video_id": null,
+      "date": "2026-11-26 12:38:51"
     }
   ]
 }
