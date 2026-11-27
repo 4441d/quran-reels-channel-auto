@@ -1,6 +1,6 @@
 {
-  "total_generated": 215,
-  "last_reciter_idx": 5,
+  "total_generated": 216,
+  "last_reciter_idx": 6,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2154,6 +2154,16 @@
       "duration": 43.8,
       "video_id": null,
       "date": "2026-11-27 12:34:04"
+    },
+    {
+      "surah": 78,
+      "surah_name": "النبأ",
+      "start_ayah": 21,
+      "end_ayah": 34,
+      "reciter": "ماهر المعيقلي",
+      "duration": 57.9,
+      "video_id": null,
+      "date": "2026-11-27 18:12:18"
     }
   ]
 }
