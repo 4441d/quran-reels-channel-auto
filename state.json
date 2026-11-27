@@ -1,6 +1,6 @@
 {
-  "total_generated": 212,
-  "last_reciter_idx": 2,
+  "total_generated": 213,
+  "last_reciter_idx": 3,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2124,6 +2124,16 @@
       "duration": 58.8,
       "video_id": null,
       "date": "2026-11-26 18:13:52"
+    },
+    {
+      "surah": 35,
+      "surah_name": "فاطر",
+      "start_ayah": 44,
+      "end_ayah": 44,
+      "reciter": "محمد صديق المنشاوي (مجود)",
+      "duration": 77.7,
+      "video_id": null,
+      "date": "2026-11-27 01:50:21"
     }
   ]
 }
