@@ -1,6 +1,6 @@
 {
-  "total_generated": 216,
-  "last_reciter_idx": 6,
+  "total_generated": 217,
+  "last_reciter_idx": 7,
   "last_surah": 1,
   "last_ayah": 0,
   "last_generated": null,
@@ -2164,6 +2164,16 @@
       "duration": 57.9,
       "video_id": null,
       "date": "2026-11-27 18:12:18"
+    },
+    {
+      "surah": 5,
+      "surah_name": "المائدة",
+      "start_ayah": 88,
+      "end_ayah": 89,
+      "reciter": "سعود الشريم",
+      "duration": 52.1,
+      "video_id": null,
+      "date": "2026-11-28 01:45:07"
     }
   ]
 }
